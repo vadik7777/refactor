@@ -1,0 +1,11 @@
+HELP.md
+target/*
+!**/src/main/**
+!**/src/test/**
+!build/libs/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
